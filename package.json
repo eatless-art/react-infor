@@ -1,5 +1,6 @@
 {
   "name": "react-template",
+  "homepage": "https://eatless-art.github.io/react-infor/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
