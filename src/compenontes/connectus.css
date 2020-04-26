@@ -1,0 +1,14 @@
+.clearfix {
+  display: flex;
+  width: 70%;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+.callcontent > .clearfix > label {
+  width: 150px;
+}
+.callcontent > .clearfix > .liuyan {
+  width: 60%;
+  margin: 0 auto;
+  margin-left: 0px;
+}

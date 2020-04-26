@@ -1,0 +1,18 @@
+.setup {
+  width: 100%;
+}
+.user-setup {
+  width: 30%;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+.user-setup > .set-box > label {
+  width: 100px;
+}
+.user-setup > .set-box {
+  display: flex;
+  width: 300px;
+  margin: 0 auto;
+  margin-left: 0px;
+  margin-top: 10px;
+}

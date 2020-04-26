@@ -1,0 +1,36 @@
+.header-wrap {
+  width: 70%;
+  margin: 0 auto;
+  background-color: #fff;
+  background-size: contain;
+  background-repeat: no-repeat;
+  padding-left: 10px;
+}
+.header-top {
+  display: flex;
+  justify-content: space-around;
+}
+.header-top > .nav {
+  display: flex;
+  width: 50%;
+  justify-content: space-around;
+  align-items: center;
+}
+.header-top img {
+  width: 300px;
+}
+.first-page {
+  margin-top: 10px;
+  width: 100%;
+  color: rgb(85, 84, 84);
+}
+.first-page a {
+  text-decoration: none;
+}
+.first-page a span {
+  width: 40px;
+  padding: 0 10px;
+  border-right: 1px solid #ccc;
+  color: rgb(85, 84, 84);
+  font-size: 20px;
+}
